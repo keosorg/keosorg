@@ -1,6 +1,7 @@
 # Welcome to KéOS
 ## What is KéOS?
-KéOS is an alternative, open-source web OS that brings bright new features. It includes high levels of customization and easy-to-use tools for developers. The best part? KéOS is designed to be used *in conjunction* with Windows 96. It is *not* designed to be a replacement for it. There's a version of KéOS that can easily be booted on top of the Windows 96 website. We also have the KéOS Bootloader - a small minikernel for Windows 96 that lets you choose whether to boot from Windows 96 or another kernel you have installed. KéOS can also mount your Windows 96 partition - allowing you to fix problems that might not be able to be fixed from the Windows 96 recovery environment.
+~~KéOS is an alternative, open-source web OS that brings bright new features. It includes high levels of customization and easy-to-use tools for developers. The best part? KéOS is designed to be used *in conjunction* with Windows 96. It is *not* designed to be a replacement for it. There's a version of KéOS that can easily be booted on top of the Windows 96 website. We also have the KéOS Bootloader - a small minikernel for Windows 96 that lets you choose whether to boot from Windows 96 or another kernel you have installed. KéOS can also mount your Windows 96 partition - allowing you to fix problems that might not be able to be fixed from the Windows 96 recovery environment.~~
+edit: i cant decide whether it should be a web os, or a real os, or both
 
 ## Why does it exist?
 In computer applications, we had to make a spreadsheet and powerpoint about our made-up company. That's boring... unless it was a real company! So, uh, yeah... that's why this started.
